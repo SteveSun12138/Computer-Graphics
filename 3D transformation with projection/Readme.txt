@@ -1,5 +1,3 @@
-Welcome to my program!
-The bounding box has been set successfully. It may not be very obvious since I do not make a smaller window. But a smaller window does not matter. A "real" bounding box matters. When you move the shape too much so that it exceed the edges of the screen, the exceeding part will not show and will not affect other windows. So please do not assume me not setting the bounding box for the reason that it is not obvious. Thank you:)
 
 First, you type the name of the test file. Maybe test_scene or bunny_scene.
 If the file name you type is correct, you will see the window with 4 sub windows. All shape(s) has been screened. 
