@@ -1,20 +1,15 @@
 First, choose which polygon to control: 
 "Welcome to 2D-polygons! Choose which shape you want to control: type a number between 0 to 4." 
-If wrong input get, it shows:
-"Wrong input. Please type a number between 0 to 4." 
+Type an index of a shape to control.
 
 
-Then, choose which algorithm you want to us, Bresenham or DDA. 
-"Now type which algorithm you want to apply: (1) Bresenham (2) DDA"
-If wrong input get, it shows:
-"Wrong input. Please type 1 or 2."
+Then, choose which algorithm you want to apply, Bresenham or DDA. 
+'1' for Bresenham, '2' for DDA.
 
 Then, decide whether to use rasterization.
-"Choose if you want to rasterize the shape"
-If wrong input get, it shows:
-"Wrong input. Please type 0 or 1."
+Type 'y' if you want or 'n' if you don’t want.
 
-You will see the 2D polygons now. Several tips to control the shape. 
+Now show the 2D polygons. Follow instruction with on screen keyboard control instead of command line.
 Translation: 
 	'w'---up
 	's'---down
