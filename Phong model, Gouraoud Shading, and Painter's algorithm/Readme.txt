@@ -1,4 +1,4 @@
-Guoqin Sun 914795301
+
 
 Type 1 to choose "cube_and_icosahedron.txt" or type 2 to choose "bunny.txt".
 
